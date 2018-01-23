@@ -39,6 +39,11 @@ node piclient.js
 python sensor.py
 ```
 
+### Demo
+
+[![Leap Motion UGV](https://img.youtube.com/vi/678qKRVXoBk/0.jpg)](https://www.youtube.com/watch?v=678qKRVXoBk)
+
+
 ## Built With
 
 * [NodeJS](https://nodejs.org/en/)
